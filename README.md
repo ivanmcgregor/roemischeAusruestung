@@ -9,7 +9,7 @@ by Nico
 
 ### Tunic
 #### General pattern
-![Nico's guide to equipment](/assets/images/nicos_tunic.jpg)
+![Nico's guide to equipment](/assets/images/nicos_tunic.JPG)
 
 #### Considerations
 You can make a tunic with less sewing if you take a piece of linen that has twice the length from your shoulders to your knees (plus a bit) and cut it to the form of a plus. The middle pieces will then be your arms. You only have to sew the sides, cut a slit for your head and then hem the edges.
@@ -19,16 +19,16 @@ Especially in winter in regions north of the Alps it is not imaginable that roma
 Tip: Natural linen can be obtained rather cheeply from IKEA (search for [AINA](https://www.ikea.com/de/de/catalog/products/30196944/)).
 
 ### Feminalia (trousers)
-![Nico's guide to the Feminalia](/assets/images/nicos_feminalia.jpg)
+![Nico's guide to the Feminalia](/assets/images/nicos_feminalia.JPG)
 
 Alernatively you could use other patterns from that time like the [Thorsberg trousers](http://www.shelaghlewins.com/reenactment/thorsbjerg_construction/thorsbjerg_trews_construction.htm)
 
 ### Focale
-![Nico's guide to the Focale](/assets/images/nicos_focale.jpg)
+![Nico's guide to the Focale](/assets/images/nicos_focale.JPG)
 
 ### Penula (coat)
 There are patterns with a square basis, a circle basis and semi-circle basis.
-![Nico's guide to the Penula](/assets/images/nicos_penula.jpg)
+![Nico's guide to the Penula](/assets/images/nicos_penula.JPG)
 
 And an [alternative guide](http://www.romanarmy.net/howto.shtml#sagum)
 
