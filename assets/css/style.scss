@@ -2,4 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-@import "./customStyles";
+
+// custom styling
+.inner {
+  max-width: 900px;
+}
