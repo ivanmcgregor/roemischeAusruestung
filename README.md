@@ -61,12 +61,12 @@ Die typischen Militärsandalen haben den Vorteil, dass der Fuß gut belüftet is
 
 ## Rüstung und Bewaffnung
 ### Subarmalis
-Das römische Gegenstück zum mittelalterlichen Gambeson. Hierbei handelt es sich im wesentlichen um einen dicken Stoff, der die Wucht des Aufschlags abfedert und verteilt. Absolut notwendig unter jeder Art von Rüstung (lorica), aber absolut unabdingbar unter Kettenhemden. Mit der Zeit wurden Ptergys an den Armen und Torso angebracht, die vor allem die Kleidung aus Stoff schützten. Darüber hinaus könnten sie eine geringe Schutzwirkung gehabt haben.
+Das römische Gegenstück zum mittelalterlichen Gambeson. Hierbei handelt es sich im wesentlichen um einen dicken Stoff, der die Wucht des Aufschlags abfedert und verteilt. Absolut notwendig unter jeder Art von Rüstung (lorica), aber absolut unabdingbar unter Kettenhemden. Mit der Zeit wurden Ptergys an den Armen und Torso angebracht, die vor allem die Kleidung aus Stoff schützten. Darüber hinaus könnten sie eine geringe Schutzwirkung gehabt haben. Einige Beispiele gibt es beim [Roman Recruit](https://romanrecruit.weebly.com/subarmalis.html)
 
 #### Subarmalis selber nähen
 Da nie eine Subarmalis gefunden oder deren Machart und Herstellung beschrieben wurde, hat man hier einen gewissen Freiraum. Die Subarmalis besteht insbesondere aus einem Korpus, der aus einigen Lagen dicken Stoff bestehen kann, der miteinander vernäht ist. Optional kann man dann Ptergys anbringen. Zur effektiven Polsterung könnte man mehrere Lagen Stoffdecken (z.B. Wolldecken) vernähen. 
 
-Tipps gibts beispielsweise bei [Legio XX](https://www.larp.com/legioxx/subarm.html) (Für sie ist die Polsterung des Körpers bei Lodica Segmentata nicht so wichtig, doch mehr Polsterung hilft auch da, den Aufprall zu dämpfen)
+Tipps gibts beispielsweise bei [Legio XX](https://www.larp.com/legioxx/subarm.html) (Für sie ist die Polsterung des Körpers bei Lorica Segmentata nicht so wichtig, doch mehr Polsterung hilft auch da, den Aufprall zu dämpfen)
 
 ### Lorica Segmentata
 Die vermutlich prunkvollste und deshalb auch bei Darstellern beliebte Rüstung ist die Segmentrüstung. Diese Rüstung der schweren Infanterie funktioniert insbesondere mit dem Scutum: Der Schild schützt den Körper, alle Schläge, die über den Schild kommen werden vom ausgeprägten den Schulterschutz abgefangen. Im laufe der Zeit gab es verschiedene Typen dieser Rüstung, beschrieben in dem in der Szene bekannten Buch von M.C. Bishop zu [Articulated Roman Plate Armor](https://www.researchgate.net/publication/301655364_Lorica_Segmentata_Volume_I_A_Handbook_of_Articulated_Roman_Plate_Armour). Das Buch enthält viele Beschreibungen und Zeichnungen.
@@ -90,8 +90,12 @@ Ein Kettenhemd zu stricken ist sehr zeitaufwändig, bedarf aber weniger Werkzeug
 ### Cassis (Helm)
 --
 
+Kauftipp: Unbedingt darauf achten, dass der Nackenschild rund ist, die beiden Nieten über den Wangenklappen angebracht sind. Der Helm sollte aus einem Stück sein, also sollte im Nacken keine Schweißnaht sein. Außerdem sollten die "Augenbrauen" nicht aufgesetzt sein.
+
 ### Gladius
 --
+
+Kauftipps: Einige Schwerter haben einen Griff aus Knochen. Diese gehen zum Teil schneller kaputt. Andere haben sehr lange Griffe, lassen sich aber meist kürzen.
 
 ### Pugio
 --
@@ -107,6 +111,7 @@ Ein Kettenhemd zu stricken ist sehr zeitaufwändig, bedarf aber weniger Werkzeug
 
 ### Wadenwickel
 Wadenwickel schützen den Soldaten auf Märschen gegen Gestrüpp, eigene Ausrüstung, die gegen das Bein schlägt (z.B. der Gladius) und natürlich in geringem Maße auch gegen Hiebe und Tritte des Gegners. Zudem eignen sie sich hervorragend als Polsterung unter Schienbeinschützern.
+Kauftipp: Das Material sollte sich ein bisschen in Längsrichtung ziehen lassen. So passt es sich besser den Bewegungen des Beins an.
 
 ### Armschützer
 #### Schutz der Schildhand
