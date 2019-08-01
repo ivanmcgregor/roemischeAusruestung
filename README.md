@@ -148,7 +148,7 @@ Hammer, Feilen (insbesondere Holz), Säge, Bohrer, eine Dicke Nadel oder Ahle, S
   ![Leinen auf der Außenseite](/assets/images/IMG_3367.JPG)
 5. Der Schildgriff
   - Auf der Außenseite ein weiteres Stück Holz anbringen und das ganze rund feilen, sodass es gut in der Hand liegt. Nach wunsch kann der Griff durch eine Lederumwicklung noch bequemer gemacht werden.
-  - Bei längerem Tragen wird der vorher gefeilte Übergang dennoch am Handgelenk einschneiden, sodass ein weiteres Polster notwendig werden wird. Entweder mehrere Lagen Leder oder eine Art Kissen direkt am Schild befestigt, oder aber eine dickere Ledermanschette, die man um den Arm trägt (diese sollte bis über den Handrücken reichen). Die Befestigung funktioniert entweder mit Kleber, kleinen Nägeln, oder indem man die 
+  - Bei längerem Tragen wird der vorher gefeilte Übergang dennoch am Handgelenk einschneiden, sodass ein weiteres Polster notwendig werden wird. Entweder mehrere Lagen Leder oder eine Art Kissen direkt am Schild befestigt, oder aber eine dickere Ledermanschette, die man um den Arm trägt (diese sollte bis über den Handrücken reichen). Die Befestigung funktioniert entweder mit Kleber, kleinen Nägeln, oder indem man die Vernietung des Schildbuckels mit benutzt.
   ![Detailansicht Schildgriff Innenseite](/assets/images/IMG_3498.JPG)
 6. Die Umrandung
   - Den Hundekauknochen in warmem bis heißen Wasser über mehrere Stunden (z.B. über Nacht) einweichen lassen. Dann in die einzelnen Stücke zerlegen
