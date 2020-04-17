@@ -59,7 +59,7 @@ Die typischen Militärsandalen haben den Vorteil, dass der Fuß gut belüftet is
 
 ## Rüstung und Bewaffnung
 ### Subarmalis
-Das römische Gegenstück zum mittelalterlichen Gambeson. Hierbei handelt es sich im wesentlichen um einen dicken Stoff, der die Wucht des Aufschlags abfedert und verteilt. Absolut notwendig unter jeder Art von Rüstung (lorica), aber absolut unabdingbar unter Kettenhemden. Mit der Zeit wurden Ptergys an den Armen und Torso angebracht, die vor allem die Kleidung aus Stoff schützten. Darüber hinaus könnten sie eine geringe Schutzwirkung gehabt haben. Einige Beispiele gibt es beim [Roman Recruit](https://romanrecruit.weebly.com/subarmalis.html)
+Das römische Gegenstück zum mittelalterlichen Gambeson. Hierbei handelt es sich im wesentlichen um einen dicken Stoff, der die Wucht des Aufschlags abfedert und verteilt. Absolut notwendig unter jeder Art von Rüstung (lorica), aber absolut unabdingbar unter Kettenhemden. Mit der Zeit wurden Pteruges an den Armen und Torso angebracht, die vor allem die Kleidung aus Stoff schützten. Darüber hinaus könnten sie eine geringe Schutzwirkung gehabt haben. Einige Beispiele gibt es beim [Roman Recruit](https://romanrecruit.weebly.com/subarmalis.html)
 
 #### Subarmalis selber nähen
 Da nie eine Subarmalis gefunden oder deren Machart und Herstellung beschrieben wurde, hat man hier einen gewissen Freiraum. Die Subarmalis besteht insbesondere aus einem Korpus, der aus einigen Lagen dicken Stoff bestehen kann, der miteinander vernäht ist. Optional kann man dann Ptergys anbringen. Zur effektiven Polsterung könnte man mehrere Lagen Stoffdecken (z.B. Wolldecken) vernähen. 
