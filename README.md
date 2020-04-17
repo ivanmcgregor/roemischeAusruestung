@@ -46,18 +46,16 @@ Das hauptsächliche Erkennungsmerkmal eines Legionärs war sein mit Metallplätt
 Beispiele und Tipps zur Herstellung können auf [Legio XX](https://www.larp.com/legioxx/balteus.html) gefunden werden.
 
 ### Schuhe
-Schuhfunde aus aufgegebenen Brunnen und Befestigungsanlagen (beispielsweise am Hadrian Wall) zeigen eine große Vielfalt an Schuhen. Nördlich der Alpen sind geschlossene Schuhe für den Winter normal -- Sandalen im Winter sind keine gute Idee. Folglich sind geschlossene Schuhe für Darsteller besser, weil sie das ganze Jahr verwendet werden können.
+Schuhfunde aus aufgegebenen Brunnen und Befestigungsanlagen (beispielsweise am Hadrian Wall) zeigen eine große Vielfalt an Schuhen. Nördlich der Alpen sind geschlossene Schuhe für den Winter als normal zu betrachten -- Sandalen im Winter sind keine gute Idee. Geschlossene Schuhe sind für Darsteller gegebenenfalls besser, weil sie das ganze Jahr verwendet werden können.
 
-Im militärdienst war es essenziell guten Halt auf dem Boden zu haben. Die Schuhe waren entsprechend benagelt (gängige Praxis bis einschließlich zum ersten Weltkrieg). Das selbe Prinzip wird bei heutigen Sportschuhen mit Spikes weiter verwendet. Mit Nägeln unterm Schuh hat man im Gelände besseren Halt, das Laufen auf stein ist allerdings unangenehm bis rutschig. Die römischen Armeen wanderten deshalb oftmals neben den römischen Handelsstraße auf einem extra dafür von Gestrüpp befreiten Bereich.
+Im militärdienst war es essenziell guten Halt auf dem Boden zu haben. Die Schuhe waren entsprechend benagelt (gängige Praxis bis einschließlich zum ersten Weltkrieg). Das selbe Prinzip wird bei heutigen Sportschuhen mit Spikes weiter verwendet. Mit Nägeln unterm Schuh hat man im Gelände besseren Halt, das Laufen auf stein ist allerdings unangenehm bis rutschig. Es gibt die Aussage, dass die römischen Armeen deshalb oftmals neben den römischen Handelsstraßen auf einem extra dafür von Gestrüpp befreiten Bereich wanderten.
 Tipps zum Benageln gibt es z.B. bei [florentius](http://florentius.com/calcei-hobnail.htm).
 
 #### Calcei
 Dieser Typ schuh ist einem modernen Stiefel ähnlich. Er ist geschlossen und geht meist bis über den Knöchel. Schöne Beispiele und Tipps gibt es bei [florentius](http://florentius.com/calcei-main.htm).
 
-Ich habe mich daran versucht, Calcei zu nähen, ohne dass ich eine Schuhleiste habe. Dazu erstelle ich zunächst Wendeschuhe (wie sie auch später noch verwendet wurden, [hier eine beispielhafte Anleitung](http://www.foracheim.de/cms_download_datei.php?sid=0&lid=&tid=3&cmspid=70)(PDF)), an die ich eine benagelte Sohle dran nähe (und klebe). Dazu orientiere ich mich u.A. an [dieser Anleitung für Caligae](http://www.legiotricesima.org/campusMartis/MakingCaligae/MakingAuthenticCaligae.html). Da ich nicht genug Nahtzugabe an der Kante zur Sohle gelassen habe, sind die Schuhe leider zu klein geworden. Vielleicht werde ich einen neuen Versuch wagen, aber vorerst überlasse ich das Schuhe herstellen dem Sutor. 
-
 #### Caligae
-Die typischen Militärsandalen haben den Vorteil, dass der Fuß gut belüftet ist und auch nach einer Flussdurchquerung wieder trocknet. Die Ausführlichste Anleitung ist wohl die von [legio tricesima](http://www.legiotricesima.org/campusMartis/MakingCaligae/MakingAuthenticCaligae.html)
+Die typischen Militärsandalen haben den Vorteil, dass der Fuß gut belüftet ist und auch nach einer Flussdurchquerung wieder trocknet. Die Ausführlichste Anleitung ist wohl die von [legio tricesima (Via Web Archive)](https://web.archive.org/web/20190406043535/http://www.legiotricesima.org/campusMartis/MakingCaligae/MakingAuthenticCaligae.html)
 
 ## Rüstung und Bewaffnung
 ### Subarmalis
